@@ -1,3 +1,7 @@
+
+<a href="https://codeclimate.com/github/sanuter/magento-sqs/maintainability"><img src="https://api.codeclimate.com/v1/badges/79e43921cf8e0323296f/maintainability" /></a>
+<a href="https://codeclimate.com/github/sanuter/magento-sqs/test_coverage"><img src="https://api.codeclimate.com/v1/badges/79e43921cf8e0323296f/test_coverage" /></a>
+
 # Magento SQS MessageQueue
 
 The module you are able to connect to Amazon SQS from Magento to publish and consume messages. Use it like other queues in Magento 2 
